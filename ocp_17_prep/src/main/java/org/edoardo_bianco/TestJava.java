@@ -8,7 +8,7 @@ public class TestJava {
         //add teste code here
         float value = 102.0f;
         //add any print statement here
-        System.out.println("Hello world: OCP 17");
+        System.out.println("Hello world: OCP 17 ");
         Random r = new Random();
         System.out.println("Random numeber: "+r.nextInt(9, 20));
 
